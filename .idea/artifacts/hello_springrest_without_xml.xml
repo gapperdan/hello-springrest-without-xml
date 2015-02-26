@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hello-springrest-without-xml">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/hello_springrest_without_xml</output-path>
+    <root id="archive" name="hello-springrest-without-xml.war">
+      <element id="javaee-facet-resources" facet="hello-springrest-without-xml/web/Web Gradle" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hello-springrest-without-xml" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: slf4j-api-1.7.5" />
+          <element id="library" level="project" name="Gradle: spring-context-4.1.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-ws-core-2.2.0.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-webmvc-4.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: jackson-core-2.4.4" />
+          <element id="library" level="project" name="Gradle: jackson-databind-2.4.4" />
+          <element id="library" level="project" name="Gradle: commons-logging-1.2" />
+          <element id="library" level="project" name="Gradle: spring-core-4.1.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-beans-4.1.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: aopalliance-1.0" />
+          <element id="library" level="project" name="Gradle: spring-aop-4.1.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-expression-4.1.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-xml-2.2.0.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-oxm-4.0.5.RELEASE" />
+          <element id="library" level="project" name="Gradle: spring-web-4.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: jackson-annotations-2.4.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/classes/artifacts/hello_springrest_without_xml/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
