@@ -83,7 +83,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="41" selection-start="187" selection-end="187" vertical-scroll-proportion="0.30973452" vertical-offset="0" max-vertical-offset="339">
+            <state line="10" column="0" selection-start="285" selection-end="285" vertical-scroll-proportion="0.44247788" vertical-offset="0" max-vertical-offset="339">
               <folding />
             </state>
           </provider>
@@ -428,8 +428,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gapperdan/hswm/initializer/WebAppInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gapperdan/hswx/config/AppConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gapperdan/hswx/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/gapperdan/hswx/initializer/WebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1008,16 +1008,16 @@
       <workItem from="1424757645908" duration="2692000" />
       <workItem from="1424837669068" duration="11040000" />
       <workItem from="1424924183155" duration="3948000" />
-      <workItem from="1424928320684" duration="1728000" />
+      <workItem from="1424928320684" duration="2022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19408000" />
+    <option name="totallyTimeSpent" value="19702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="747" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1039,7 +1039,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30936995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30936995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33704293" sideWeight="0.86510503" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1204,7 +1204,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="41" selection-start="187" selection-end="187" vertical-scroll-proportion="0.30973452" vertical-offset="0" max-vertical-offset="339">
+        <state line="10" column="0" selection-start="285" selection-end="285" vertical-scroll-proportion="0.44247788" vertical-offset="0" max-vertical-offset="339">
           <folding />
         </state>
       </provider>

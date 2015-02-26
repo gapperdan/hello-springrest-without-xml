@@ -5,6 +5,6 @@
 
 The app is available in the url:
 
-<http://http://localhost:8080/hswx/hello>
-<http://http://localhost:8080/hswx/hi>
-<http://http://localhost:8080/hswx/hi/yournamehere>
+* <http://http://localhost:8080/hswx/hello>
+* <http://http://localhost:8080/hswx/hi>
+* <http://http://localhost:8080/hswx/hi/yournamehere>
