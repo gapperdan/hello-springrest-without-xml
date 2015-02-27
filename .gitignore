@@ -1,5 +1,6 @@
-.gradle/**
-build/**
-.idea
-hello-springrest-without-xml.iml
-hswx.iml
+.gradle/
+build/
+.idea/
+*.iml
+*.ipr
+*.iws
