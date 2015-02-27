@@ -102,7 +102,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="5" selection-start="40" selection-end="40" vertical-scroll-proportion="0.20491803" vertical-offset="0" max-vertical-offset="366">
+            <state line="6" column="19" selection-start="60" selection-end="60" vertical-scroll-proportion="0.24590164" vertical-offset="0" max-vertical-offset="366">
               <folding />
             </state>
           </provider>
@@ -1018,12 +1018,12 @@
       <workItem from="1424837669068" duration="11040000" />
       <workItem from="1424924183155" duration="3948000" />
       <workItem from="1424928320684" duration="2022000" />
-      <workItem from="1425004061778" duration="222000" />
+      <workItem from="1425004061778" duration="286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19924000" />
+    <option name="totallyTimeSpent" value="19988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="747" extended-state="6" />
@@ -1273,7 +1273,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="5" selection-start="40" selection-end="40" vertical-scroll-proportion="0.20491803" vertical-offset="0" max-vertical-offset="366">
+        <state line="6" column="19" selection-start="60" selection-end="60" vertical-scroll-proportion="0.24590164" vertical-offset="0" max-vertical-offset="366">
           <folding />
         </state>
       </provider>
