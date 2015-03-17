@@ -13,7 +13,7 @@ import javax.servlet.ServletRegistration;
 public class WebAppInitializer implements WebApplicationInitializer {
 
     private static final String CONFIG_LOCATION = "com.gapperdan.hswx.config";
-    private static final String MAPPING_URL = "/hswx/*";
+    private static final String MAPPING_URL = "/";
 
     @Override
     public void onStartup(ServletContext servletContext) throws ServletException {
@@ -27,6 +27,7 @@ public class WebAppInitializer implements WebApplicationInitializer {
     private AnnotationConfigWebApplicationContext getContext() {
         AnnotationConfigWebApplicationContext context = new AnnotationConfigWebApplicationContext();
         context.setConfigLocation(CONFIG_LOCATION);
+        context.setDisplayName("Sample Spring REST without XML configuration");
         return context;
     }
 

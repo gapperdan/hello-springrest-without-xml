@@ -5,6 +5,9 @@ apply plugin: 'java'
 apply plugin: 'war'
 apply plugin: 'org.akhikhl.gretty'
 
+war {
+    archiveName = 'hswx.war'
+}
 buildscript {
     repositories {
         jcenter()
@@ -17,7 +20,7 @@ buildscript {
 
 gretty {
     port=8080
-    contextPath=''
+    contextPath='/hswx'
     servletContainer = 'tomcat8'
 }
 
