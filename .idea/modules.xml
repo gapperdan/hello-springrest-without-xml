@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hello-springrest-without-xml.iml" filepath="$PROJECT_DIR$/hello-springrest-without-xml.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hswx.iml" filepath="$PROJECT_DIR$/hswx.iml" />
     </modules>
   </component>
 </project>
